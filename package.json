@@ -1,7 +1,7 @@
 {
   "name": "react-native-schedule-notification",
   "version": "0.1.0",
-  "description": "react-native-scheduled-notifications is a react native package built with Nitro",
+  "description": "react-native-schedule-notification is a react native package built with Nitro",
   "main": "./lib/commonjs/index.js",
   "module": "./lib/module/index.js",
   "types": "./lib/typescript/src/index.d.ts",
@@ -16,7 +16,7 @@
   },
   "keywords": [
     "react-native",
-    "react-native-scheduled-notifications"
+    "react-native-schedule-notification"
   ],
   "files": [
     "src",
@@ -42,11 +42,11 @@
   "workspaces": [
     "example"
   ],
-  "repository": "https://github.com/Gabriel-Pereira1788/react-native-scheduled-notifications.git",
+  "repository": "https://github.com/Gabriel-Pereira1788/react-native-schedule-notification.git",
   "author": "Gabriel-Pereira1788",
   "license": "MIT",
-  "bugs": "https://github.com/Gabriel-Pereira1788/react-native-scheduled-notifications/issues",
-  "homepage": "https://github.com/Gabriel-Pereira1788/react-native-scheduled-notifications#readme",
+  "bugs": "https://github.com/Gabriel-Pereira1788/react-native-schedule-notification/issues",
+  "homepage": "https://github.com/Gabriel-Pereira1788/react-native-schedule-notification#readme",
   "publishConfig": {
     "access": "public",
     "registry": "https://registry.npmjs.org/"

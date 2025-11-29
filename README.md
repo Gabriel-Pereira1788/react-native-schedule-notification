@@ -4,7 +4,7 @@ A powerful and efficient React Native library for scheduling recurring local not
 
 [![Version](https://img.shields.io/npm/v/react-native-schedule-notification.svg)](https://www.npmjs.com/package/react-native-schedule-notification)
 [![Downloads](https://img.shields.io/npm/dm/react-native-schedule-notification.svg)](https://www.npmjs.com/package/react-native-schedule-notification)
-[![License](https://img.shields.io/npm/l/react-native-schedule-notification.svg)](https://github.com/Gabriel-Pereira1788/react-native-scheduled-notifications/LICENSE)
+[![License](https://img.shields.io/npm/l/react-native-schedule-notification.svg)](https://github.com/Gabriel-Pereira1788/react-native-schedule-notification/LICENSE)
 
 ## 📋 Table of Contents
 
@@ -527,9 +527,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Support
 
-For bugs and feature requests, please [open an issue](https://github.com/Gabriel-Pereira1788/react-native-scheduled-notifications/issues).
+For bugs and feature requests, please [open an issue](https://github.com/Gabriel-Pereira1788/react-native-schedule-notification/issues).
 
-For questions and support, please use the [Discussions](https://github.com/Gabriel-Pereira1788/react-native-scheduled-notifications/discussions) section.
+For questions and support, please use the [Discussions](https://github.com/Gabriel-Pereira1788/react-native-schedule-notification/discussions) section.
 
 ---
 
