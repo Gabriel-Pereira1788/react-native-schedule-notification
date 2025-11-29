@@ -4,7 +4,7 @@ A powerful and efficient React Native library for scheduling recurring local not
 
 [![Version](https://img.shields.io/npm/v/react-native-schedule-notification.svg)](https://www.npmjs.com/package/react-native-schedule-notification)
 [![Downloads](https://img.shields.io/npm/dm/react-native-schedule-notification.svg)](https://www.npmjs.com/package/react-native-schedule-notification)
-[![License](https://img.shields.io/npm/l/react-native-schedule-notification.svg)](https://github.com/Gabriel-Pereira1788/react-native-schedule-notification/LICENSE)
+[![License](https://img.shields.io/npm/l/react-native-schedule-notification.svg)](https://www.npmjs.com/package/react-native-schedule-notification/LICENSE)
 
 ## 📋 Table of Contents
 
