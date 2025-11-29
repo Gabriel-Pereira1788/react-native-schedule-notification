@@ -1,0 +1,20 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+    <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
+    <uses-permission android:name="android.permission.SCHEDULE_EXACT_ALARM"/>
+    <application>
+    <receiver
+        android:name="com.margelo.nitro.schedulednotifications.ScheduleNotificationReceiver"
+
+        android:exported="false" />
+
+        <receiver android:name="com.margelo.nitro.schedulednotifications.NotificationClickReceiver" />
+
+        <activity
+            android:name="com.margelo.nitro.schedulednotifications.Activity.NotificationReceiverActivity"
+            android:noHistory="true"
+            android:excludeFromRecents="true"
+            android:taskAffinity=""
+            android:theme="@android:style/Theme.Translucent.NoTitleBar"
+            android:exported="true" />
+    </application>
+</manifest>

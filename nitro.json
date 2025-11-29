@@ -1,0 +1,24 @@
+{
+  "$schema": "https://nitro.margelo.com/nitro.schema.json",
+  "cxxNamespace": [
+    "schedulednotifications"
+  ],
+  "ios": {
+    "iosModuleName": "ScheduledNotifications"
+  },
+  "android": {
+    "androidNamespace": [
+      "schedulednotifications"
+    ],
+    "androidCxxLibName": "ScheduledNotifications"
+  },
+  "autolinking": {
+    "ScheduledNotifications": {
+      "swift": "HybridScheduledNotifications",
+      "kotlin": "HybridScheduledNotifications"
+    }
+  },
+  "ignorePaths": [
+    "**/node_modules"
+  ]
+}
