@@ -1,8 +1,15 @@
 
 import Foundation
 import NotificationCenter
+import NitroModules
 
 class HybridScheduledNotifications: HybridScheduledNotificationsSpec {
+    func getPendingNotifications() throws -> NitroModules.Promise<[String]> {
+        return Promise.async {
+            await UNUserNotificationCenter.current().pendingNotificationRequests().map(\.identifier)
+        }
+    }
+    
     private var listeners : [String: ((String) -> Void)] = [:]
     private var rnScheduleNotificationTracker: RNScheduleNotificationTracker?
 
@@ -75,6 +82,8 @@ class HybridScheduledNotifications: HybridScheduledNotificationsSpec {
         listeners[identifier] = callback
         return identifier
     }
+    
+    
 
     func removeListener(id identifier: String){
         listeners.removeValue(forKey: identifier)

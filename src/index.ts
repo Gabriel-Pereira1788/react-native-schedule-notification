@@ -60,8 +60,13 @@ export function addListener(callback: (id: string) => void) {
   return () => ScheduledNotifications.removeListener(id)
 }
 
+export async function getPendingNotifications(): Promise<string[]> {
+  return await ScheduledNotifications.getPendingNotifications()
+}
+
 export default {
   schedule,
   addListener,
   cancel,
+  getPendingNotifications,
 }

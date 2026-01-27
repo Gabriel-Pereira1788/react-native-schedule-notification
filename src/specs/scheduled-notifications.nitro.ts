@@ -13,4 +13,5 @@ export interface ScheduledNotifications
   addListener(callback: (notificationId: string) => void): string
   removeListener(id: string): void
   cancel(id: string): void
+  getPendingNotifications(): Promise<string[]>
 }
