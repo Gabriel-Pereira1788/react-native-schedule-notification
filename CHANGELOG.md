@@ -1,3 +1,9 @@
+## [1.1.0](https://github.com/Gabriel-Pereira1788/react-native-schedule-notification/compare/v1.0.0...v1.1.0) (2026-01-27)
+
+### ✨ Features
+
+* add get pending schedule notifications ([1454b6d](https://github.com/Gabriel-Pereira1788/react-native-schedule-notification/commit/1454b6ddfd4162427e654be3c395d1828d24bca1))
+
 ## 1.0.0 (2025-11-29)
 
 ### 🐛 Bug Fixes
