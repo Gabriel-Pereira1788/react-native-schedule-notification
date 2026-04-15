@@ -1,3 +1,9 @@
+## [1.1.2](https://github.com/Gabriel-Pereira1788/react-native-schedule-notification/compare/v1.1.1...v1.1.2) (2026-04-15)
+
+### 🐛 Bug Fixes
+
+* nitro modules version ([926e318](https://github.com/Gabriel-Pereira1788/react-native-schedule-notification/commit/926e31857253e51c29f850b7808a5f72db896674))
+
 ## [1.1.1](https://github.com/Gabriel-Pereira1788/react-native-schedule-notification/compare/v1.1.0...v1.1.1) (2026-01-27)
 
 ### 🛠️ Other changes
