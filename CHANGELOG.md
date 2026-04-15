@@ -1,3 +1,9 @@
+## [1.1.3](https://github.com/Gabriel-Pereira1788/react-native-schedule-notification/compare/v1.1.2...v1.1.3) (2026-04-15)
+
+### 🛠️ Other changes
+
+* change version ([a497047](https://github.com/Gabriel-Pereira1788/react-native-schedule-notification/commit/a4970474f9c916013e4e3bf95c3d719464cefa8a))
+
 ## [1.1.2](https://github.com/Gabriel-Pereira1788/react-native-schedule-notification/compare/v1.1.1...v1.1.2) (2026-04-15)
 
 ### 🐛 Bug Fixes
